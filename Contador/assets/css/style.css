@@ -1,0 +1,13 @@
+body{    
+width: 100%;
+height: 100%;    
+display:flex;
+flex-direction: column;   
+justify-content: center;
+align-items: center;
+}
+#numero{
+color: black;
+border: 1px solid black;
+padding: 2px;    
+}
